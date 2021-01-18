@@ -16,6 +16,10 @@ https://cppcast.com/nu-programming-languages-jonathan-turner/
 
 [Episode 6](https://arewepodcastyet.com/)
 
+## New Rustacean
+
+[Episode 4](https://newrustacean.com/show_notes/interview/_4/index.html)
+
 ## MS Dev Show
 
 https://msdevshow.com/2015/07/typescript-with-jonathan-turner/
