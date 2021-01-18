@@ -10,7 +10,6 @@ https://changelog.com/podcast/363
 
 ## CppCast
 
-### Making Nu Languages
 https://cppcast.com/nu-programming-languages-jonathan-turner/
 
 ## Are we podcast yet?
@@ -19,10 +18,17 @@ https://cppcast.com/nu-programming-languages-jonathan-turner/
 
 ## MS Dev Show
 
-### TypeScript
-
 https://msdevshow.com/2015/07/typescript-with-jonathan-turner/
 
+## JavaScript Jabber
+
+https://dev.to/jsjabber/167-jsj-typescript-and-angular-with-jonathan-turner-and-alex-eagle
+
+## Software Engineering Daily
+
+https://softwareengineeringdaily.com/2015/07/29/typescript-with-jon-turner/
+
 ## Rusty Spike (my old podcast)
+
 https://podcasts.apple.com/us/podcast/rusty-spike-podcast-news-on-all-things-rust/id1293477322
 
