@@ -1,5 +1,9 @@
 # Times I've been on a podcast
 
+## Zig Showtime
+
+https://www.youtube.com/watch?v=X7ny7Qrsbd8&t=959s
+
 ## Changelog
 
 ### TypeScript and Open Source at Microsoft
