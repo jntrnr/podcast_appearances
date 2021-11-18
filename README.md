@@ -1,5 +1,10 @@
 # Times I've been on a podcast
 
+
+## The Runtime
+
+https://player.fm/series/the-runtime/ep-015-jt-on-nushell
+
 ## Zig Showtime
 
 https://www.youtube.com/watch?v=X7ny7Qrsbd8&t=959s
